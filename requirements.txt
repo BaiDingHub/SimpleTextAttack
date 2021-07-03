@@ -1,0 +1,3 @@
+language_tool_python
+nltk
+transformers>=3.3.0
