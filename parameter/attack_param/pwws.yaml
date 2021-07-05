@@ -1,0 +1,7 @@
+{
+    model_specify: false,       # if ture, please specify parameters for each model, like  bert:{ key: value }
+    task_specify: false,        # if ture, please specify parameters for each dataset, like bert:{ yelp:{ key: value} }
+    parameter: {
+        
+    }
+}

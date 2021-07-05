@@ -1,0 +1,12 @@
+{
+  yelp: {
+      pretrained_dir: '/home/yuzhen/nlp/pretrained/bert/yelp',                # 预训练模型所在的位置
+      nclasses: 2,                      # 所对应的数据集的类别数目
+      max_seq_length: 256,                # 文本序列最大长度
+  },
+  yahoo: {
+      pretrained_dir: '/home/yuzhen/nlp/pretrained/bert/yelp',                # 预训练模型所在的位置
+      nclasses: 10,                      # 所对应的数据集的类别数目
+      max_seq_length: 256,                # 文本序列最大长度
+  },
+}
